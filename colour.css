@@ -1,0 +1,34 @@
+section#colo-display {
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+  margin: 150px auto;
+  width: 20%;
+  background-color: white;
+  box-shadow: 0 0 30px rgba(0, 0, 0, 0.5);
+  border-radius: 25px;
+  padding: 50px;
+}
+header {
+  background-color: #ffffff;
+  color: white;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 15px 20px;
+}
+
+/* Style for the logo */
+.logo img {
+  height: 50px; /* Adjust the height as needed */
+  width: auto;
+}
+
+section#colo-display h1 {
+  font-weight: 100;
+}
+section#colo-display #new-button {
+  background-color: black;
+  color: white;
+  font-weight: 900;
+  padding: 10px;
+}
